@@ -4,8 +4,10 @@
     border: 1px;
     border-style: solid;
     flex-wrap: wrap;
-    width:18cm;
-    height:18cm;
+    /* width:18cm;
+    height:18cm; */
+    width: 55vw;
+    height: 55vw ;
 }
 .black{
     background-color: darkgray;
