@@ -7,12 +7,6 @@
     width:18cm;
     height:18cm;
 }
-/* .square{
-    flex-wrap: wrap;
-    width: 3%;
-    margin-inline: 0.05%;
-    height: 3%;
-    border: 1px;
-    border-style: solid;
-    border-color: black;
-} */
+.black{
+    background-color: darkgray;
+}
