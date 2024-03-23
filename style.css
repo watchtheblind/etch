@@ -1,13 +1,13 @@
 .container{
     display: flex;
-    justify-content: center;
-    border: 1px;
+    flex-direction: column;
+    border: 4px;
     border-style: solid;
-    flex-wrap: wrap;
+    /* flex-wrap: wrap; */
     /* width:18cm;
     height:18cm; */
     width: 55vw;
-    height: 55vw ;
+    height: 55vw;
 }
 .black{
     background-color: darkgray;
