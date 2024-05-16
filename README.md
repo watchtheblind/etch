@@ -2,9 +2,13 @@
 💡 My Etch-A-Sketch project from "The Odin Project" 💡
 
 Technologies used: 
+
 -Bootstrap 📚
+
 -HTML 📃
+
 -Javascript 🧠
+
 -CSS 🖌
 
 In order to accomplish the task given by The Odin Project, i made a library that's able to create, delete and edit a series of books, only with DOM and Javascript's objects.
